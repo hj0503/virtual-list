@@ -1,9 +1,9 @@
 <script setup lang="ts">
-import TheWelcome from '../components/TheWelcome.vue'
+import FixedList from '../components/FixedList.vue'
 </script>
 
 <template>
   <main>
-    <TheWelcome />
+    <FixedList />
   </main>
 </template>
